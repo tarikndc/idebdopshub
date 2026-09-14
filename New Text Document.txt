@@ -1,0 +1,5 @@
+# .env Configuration File
+NODE_ENV=production
+PORT=3000
+GOOGLE_CLIENT_ID=799965742080-cflo47uktf1t87usu8huicpvhqoo5jcc.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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

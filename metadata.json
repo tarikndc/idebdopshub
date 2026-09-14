@@ -1,0 +1,6 @@
+{
+  "name": "iDE INSIGHTS",
+  "description": "A tailored, minimalistic resource logistics and digital stationery requisition system for iDE Bangladesh country and regional offices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
